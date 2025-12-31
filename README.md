@@ -47,6 +47,3 @@ Python 3.9+
 No external dependencies
 
 No telemetry or background services
-
-
-ChatGPT can make mistakes.
