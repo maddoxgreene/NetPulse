@@ -76,11 +76,6 @@ Option	Description
 
 --log	Write results to CSV
 
-📊 Example Output
-Target                  Last   Avg   Min   Max  Jit  Loss  DNS  Route
-1.1.1.1                 12.3   13.1  11.9  15.4  0.8   0%   2.1   OK
-8.8.8.8                 18.4   19.0  17.5  21.2  1.1   0%   2.3   OK
-
 📁 Logging
 
 To log results to a file:
