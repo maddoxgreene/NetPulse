@@ -59,14 +59,23 @@ Example with options:
 python netpulse.py --targets 1.1.1.1,8.8.8.8,google.com --route-check
 
 ⚙️ Available Options
+
 Option	Description
+
 --targets	Comma-separated IPs or hostnames
+
 --interval	Delay between checks (seconds)
+
 --timeout	Ping timeout (ms)
+
 --window	Rolling average window size
+
 --route-check	Detect route changes
+
 --route-every	How often to run traceroute
+
 --log	Write results to CSV
+
 📊 Example Output
 Target                  Last   Avg   Min   Max  Jit  Loss  DNS  Route
 1.1.1.1                 12.3   13.1  11.9  15.4  0.8   0%   2.1   OK
